@@ -1,0 +1,6 @@
+*.bin
+*.img
+*.hex
+.venv/
+__pycache__/
+*.pyc
